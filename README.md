@@ -1,7 +1,4 @@
 # Projet_Data_Simplon_2022
-
-.
-
 # Prérequis
 
 * Docker
