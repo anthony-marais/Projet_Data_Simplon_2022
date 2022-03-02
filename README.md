@@ -9,8 +9,9 @@
 # Installation
 ```console
 git clone https://github.com/anthony-marais/Projet_Data_Simplon_2022.git
+```
+```console
 cd Projet_Data_Simplon_2022
-
 ```
 # Docker
 ## Configuration
